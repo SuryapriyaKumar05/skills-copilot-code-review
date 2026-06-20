@@ -1,8 +1,6 @@
 # Copilot Instructions
 
-Use this repository’s coding conventions and keep changes minimal and focused.
-
-## General guidance
-- Prefer clear, readable code.
-- Add or update tests for behavior changes.
-- Avoid unrelated refactors in the same PR.
+- Follow repository coding standards.
+- Keep changes minimal and focused.
+- Add tests for new behavior when applicable.
+- Prefer clear, maintainable code over clever code.
