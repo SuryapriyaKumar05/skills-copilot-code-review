@@ -1,9 +1,5 @@
----
-applyTo: "*.html,*.css,*.js"
----
+# Frontend Instructions
 
-## Frontend Guidelines
-
-- Use accessibility attributes (alt text, aria labels) and color schemes.
-- Use responsive design for compatibility with mobile devices.
-- Validate HTML structure and semantic elements
+- Use consistent component structure and naming.
+- Keep UI changes accessible (labels, keyboard support, semantic HTML).
+- Add/update frontend tests for new behavior.
