@@ -11,3 +11,14 @@
 - Prefer maintainability and readability over optimization.
 - If a method is used a lot, try to optimize it for performance.
 - Prefer explicit error handling over silent failures.
+
+## Testing
+
+- Add or update tests for behavior changes when tests are available.
+- Prefer deterministic tests that do not depend on timing or external services.
+- Verify both success paths and important failure paths.
+
+## Documentation
+
+- Keep API or behavior documentation in sync with code changes.
+- Document assumptions and limitations near complex logic.
